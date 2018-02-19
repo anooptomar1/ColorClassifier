@@ -15,4 +15,3 @@ This repository contains a machine learning model which work with Apples **Core 
 
 #### 3. Import the ColorClassifier to sample project.
 
-#### Sample project is coming...
